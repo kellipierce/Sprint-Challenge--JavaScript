@@ -16,7 +16,7 @@ function myFunction() {
 }
 myFunction();
 
-// Explanation: Nested function can access the variable internal, as it's not in the global scope.
+// Explanation: Nested functions have access to the functions and member varbiales of its parent function.
 
 
 
